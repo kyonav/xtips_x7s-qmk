@@ -1,4 +1,4 @@
-#!/home/kzx/x-tips_x7s/bin/python3
+#!/home/kzx/xtips-x7s_qmk/bin/python3
 """Show all the colors available to us.
 
 PYTHON_ARGCOMPLETE_OK
